@@ -49,7 +49,6 @@ SCT_ML_4/
 │── scripts/
 │── README.md
 
-
 ---
 
 ## 🧰 Technologies Used
