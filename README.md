@@ -40,7 +40,7 @@ The CNN architecture includes:
 
 ## 📁 Project Structure
 
-SCT_ML_4/
+SCT_ML_4
 
 |-- Hand_Gesture_Recognition.ipynb
 
