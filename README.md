@@ -39,15 +39,16 @@ The CNN architecture includes:
 ---
 
 ## 📁 Project Structure
+
 SCT_ML_4/
-│── Hand_Gesture_Recognition.ipynb
-│── train_model.py
-│── predict.py
-│── requirements.txt
-│── model/
-│── results/
-│── scripts/
-│── README.md
+├── Hand_Gesture_Recognition.ipynb
+├── train_model.py
+├── predict.py
+├── requirements.txt
+├── model/
+├── results/
+├── scripts/
+└── README.md
 
 ---
 
